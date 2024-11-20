@@ -22,7 +22,7 @@ export const CallToAction = () => {
               AI-Driven Search for everyone
             </h2>
             <p className="text-center text-lg md:text-xl max-w-xs mx-auto tracking-tight text-white/70 px-4 mt-5">
-              Achieve clear impactful results without complexity
+              Converting Chaos to Clarity.
             </p>
             <div className="flex justify-center mt-8">
               <Button>Join Scoop</Button>

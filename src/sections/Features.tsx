@@ -6,7 +6,7 @@ import productImage from "@/assets/product-image.png";
 const tabs = [
   {
     icon: "/assets/lottie/vroom.lottie",
-    title: "User-friendly dashboard",
+    title: "Simple search Interface",
     isNew: false,
     backgroundPositionX: 0,
     backgroundPositionY: 0,
@@ -14,7 +14,7 @@ const tabs = [
   },
   {
     icon: "/assets/lottie/click.lottie",
-    title: "One-click optimization",
+    title: "Secure data handling",
     isNew: false,
     backgroundPositionX: 98,
     backgroundPositionY: 100,
@@ -22,7 +22,7 @@ const tabs = [
   },
   {
     icon: "/assets/lottie/stars.lottie",
-    title: "Smart keyword generator",
+    title: "Smart Assistant",
     isNew: true,
     backgroundPositionX: 100,
     backgroundPositionY: 27,
@@ -35,7 +35,7 @@ export const Features = () => {
     <section className="py-20 md:py-24">
       <div className="container">
         <h2 className="text-5xl md:text-6xl font-medium tracking-tighter text-center">
-          Elevate your Search efforts
+          Elevate your Efficiency
         </h2>
         <p className="text-white/70 text-lg md:text-xl max-w-2xl mx-auto tracking-tight text-center mt-5">
           From small startups to large enterprise. our AI-driven tool has will

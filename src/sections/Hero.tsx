@@ -40,8 +40,8 @@ export const Hero = () => {
           SCOOP
         </h1>
         <p className="text-lg text-white/70 mt-5 text-center">
-          Save time by changing manual doc search to ai powered internal search
-          engine of your company. Where tech meets efficiency
+          Instantly find anything at work—all your data unified in one simple
+          search.
         </p>
         <div className="flex justify-center mt-5">
           <Button>Join Scoop</Button>

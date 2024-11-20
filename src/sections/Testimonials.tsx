@@ -39,7 +39,7 @@ export const Testimonials = () => {
           Beyond Expectation
         </h2>
         <p className="text-white/70 text-lg md:text-xl tracking-tight text-center mt-5 max-w-sm mx-auto">
-          Our revolutionary search tool will transform the industry.
+          Simplify search Amplify productivity.
         </p>
         <div className="overflow-hidden mt-10 [mask-image:linear-gradient(to_right,transparent,black_20%,black_80%,transparent)]">
           <div className="flex gap-5">

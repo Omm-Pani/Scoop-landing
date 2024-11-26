@@ -100,10 +100,10 @@ export const Hero = () => {
       {/* end ring 3 */}
 
       <div className="relative container">
-        <h1 className="text-8xl md:text-[168px] font-semibold tracking-tighter bg-white bg-[radial-gradient(100%_100%_at_top_right,white,white,rgb(74,32,138,.5))] text-transparent bg-clip-text text-center">
+        <h1 className="select-none text-8xl md:text-[168px] font-semibold tracking-tighter bg-white bg-[radial-gradient(100%_100%_at_top_right,white,white,rgb(74,32,138,.5))] text-transparent bg-clip-text text-center">
           SCOOP
         </h1>
-        <p className="text-lg text-white/70 mt-5 text-center">
+        <p className="select-none text-lg text-white/70 mt-5 text-center">
           Instantly find anything at work—all your data unified in one simple
           search.
         </p>

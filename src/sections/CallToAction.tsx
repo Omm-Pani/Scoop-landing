@@ -85,10 +85,10 @@ export const CallToAction = () => {
           ></motion.div>
 
           <div className="relative">
-            <h2 className="text-5xl md:text-6xl max-w-sm mx-auto tracking-tighter text-center">
+            <h2 className="text-5xl md:text-6xl max-w-sm mx-auto tracking-tighter text-center select-none">
               AI-Driven Search for everyone
             </h2>
-            <p className="text-center text-lg md:text-xl max-w-xs mx-auto tracking-tight text-white/70 px-4 mt-5">
+            <p className="text-center text-lg md:text-xl max-w-xs mx-auto tracking-tight text-white/70 px-4 mt-5 select-none">
               Converting Chaos to Clarity.
             </p>
             <div className="flex justify-center mt-8">
